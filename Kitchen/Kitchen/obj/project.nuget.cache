@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QykpovMsua9/HdXW+IZ7SHHO8+wz5llprNaAq+nCMhDzX/+/4skCB4IRLA3KUjpgYMuJKQrrcnru+ww+j5YKMw==",
+  "success": true,
+  "projectFilePath": "C:\\project\\FAF_Projects\\Kitchen\\Kitchen\\Kitchen\\Kitchen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Timotin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
