@@ -38,3 +38,13 @@ C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\obj\Debug\net5.0\ref\Kitchen.dll
 C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\obj\Debug\net5.0\Kitchen.pdb
 C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\obj\Debug\net5.0\Kitchen.genruntimeconfig.cache
 C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\obj\Debug\net5.0\Kitchen.csproj.CopyComplete
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\obj\Debug\net5.0\Kitchen.MvcApplicationPartsAssemblyInfo.cs
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\System.Web.Http.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\project\FAF_Projects\Kitchen\Kitchen\Kitchen\bin\Debug\net5.0\DotNetty.Common.dll
